@@ -241,8 +241,22 @@
         </p>
       </div>
       <h2 class="headline2">
-        <b> Conflictos históricos </b>
+        <b> Conflictos históricos - <span class="GuerraFria"> Guerra Fría</span> </b>
       </h2>
+      <h3 class="headline3">
+        Introducción
+      </h3>
+      <div class="Texto">
+        <p>
+          La Guerra Fría fue un enfrentamiento global entre Estados Unidos y la Unión Soviética tras la Segunda Guerra Mundial. Se 
+          caracterizó por una intensa rivalidad política, ideológica y tecnológica. 
+        </p>
+        <p>
+        Dividió al mundo en dos bloques: el occidental, liderado por Estados Unidos, y el oriental, por la Unión Soviética. Aunque no hubo
+        combates directos entre ellos, compitieron por influencia global y apoyaron regímenes afines. Su legado sigue presente en la
+        política internacional.
+        </p>
+      </div>
       <h3 class = "headline3">
         Conclusión
       </h3>
@@ -440,6 +454,32 @@ p{
   text-align: center;
 }
 
+.GuerraFria{
+  background: radial-gradient(circle, red,blue);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: guerraFria 10s alternate-reverse infinite;
+  background-size: 200% 200%;
+  text-align: center;
+}
+@keyframes guerraFria{
+  0%{
+    background-position: 0% 0%;
+  }
+  25%{
+    background-position: 100% 100%;
+  }
+  50%{
+    background-position: 0% 0%;
+  }
+  75%{
+    background-position: 100% 100%;
+  }
+  100%{
+    background-position: 0% 0%;
+  }
+}
 @keyframes guerraMundial {
   0% {
     background-position: 0% 0%;
