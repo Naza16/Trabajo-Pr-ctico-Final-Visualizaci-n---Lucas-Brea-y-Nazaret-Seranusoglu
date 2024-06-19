@@ -257,6 +257,128 @@
         política internacional.
         </p>
       </div>
+      <h3 class="headline3">
+        Conflictos bélicos y carrera de armas 
+      </h3>
+      <div class="Texto">
+        <p>El gasto militar durante la Guerra Fría fue colosal, reflejando la intensa competencia entre las superpotencias.</p>
+        <ul>
+          <li class="Items">
+            Estados Unidos: En 1980, el gasto militar estadounidense fue de aproximadamente $135 mil millones.
+            Este gasto incluía no solo armas nucleares, sino también fuerzas convencionales, tecnología avanzada y programas de defensa 
+            estratégica.
+          </li>
+          <li class="Items"> 
+            Unión Soviética: Aunque las cifras exactas son difíciles de determinar debido a la falta de transparencia, se estima que el
+            gasto militar soviético en 1980 fue alrededor de $250 mil millones, ajustado por el poder adquisitivo. 
+            La economía soviética se vio enormemente presionada por estos gastos, contribuyendo eventualmente a su colapso.
+          </li>
+        </ul>
+      </div>
+        <div class="Texto">
+        <p>En cuanto a conflictos, nunca hubo, de forma directa, entre los Estados Unidos y la Unión de Repûblicas Socialistas Soviéticas, nunca sucedio.
+          Sin Embargo, hubieron multiples conflictos indirectos o proxy wars. En este periodo, la economía fue afectada por estos enfrentamientos, y veremos como es que se relacionan. </p>
+        <p>A continuación, enumeraremos algunos de los más emblemáticos:</p>
+        </div>
+        <h2 class="headline2">
+          <b>Década de 1950 - <span class="GuerraFria"> Guerra de Corea </span></b>
+        </h2>
+        <div class="Texto">
+          Durante la Guerra de Corea (1950-1953), el gasto militar de Estados Unidos se incrementó significativamente, con estimaciones 
+          que rondan los $50-60 mil millones anuales ajustados a dólares de 1980. Este aumento en el gasto representó aproximadamente el 
+          10-15% del PIB al comienzo del conflicto, disminuyendo a cerca del 10% hacia el final de la década de 1950. Este periodo marcó
+          una intensificación notable en la Guerra Fría, con Estados Unidos destinando considerables recursos para enfrentar la amenaza 
+          comunista en Asia y mantener su posición estratégica a nivel global.
+        </div>
+        <div class="chart-container2">
+          <iframe title="Presupuesto del gasto militar de EE.UU en la guerra de Corea (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-Pg1ja" src="https://datawrapper.dwcdn.net/Pg1ja/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="100" data-external="1"></iframe>
+            <script type="text/javascript">!function(){
+              "use strict";window.addEventListener("message",(function(a){
+                if(void 0!==a.data["datawrapper-height"]){
+                  var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+                    var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+                  }
+                }))
+              }();
+          </script>
+        </div>
+        <h2 class="headline2">
+          <b> Decada de 1960 - <span class="GuerraFria"> Guerra de Vietnam y Carrera Espacial </span></b>
+        </h2>
+        <div class="Texto">
+        <p>En los años 60, el gasto militar de Estados Unidos creció considerablemente debido a la Guerra de Vietnam y la carrera armamentista.
+          En 1960, el gasto militar se estimaba en alrededor de $47 mil millones (ajustados a dólares de 1980). Con la escalada del conflicto en
+          Vietnam, los gastos aumentaron drásticamente, alcanzando su punto máximo a fines de la década. Las estimaciones del gasto militar 
+          anual para esta década oscilan entre $60 y $90 mil millones, también ajustados a dólares de 1980. Este gasto representó 
+          aproximadamente entre el 8% y el 10% del PIB durante los años de mayor intensidad del conflicto, reflejando la alta prioridad dada a
+          la defensa y las operaciones militares en ese periodo.
+        </p>
+        <p>La Unión Soviética, por su parte, también incrementó su gasto militar durante este período, aunque las cifras exactas son difíciles 
+          de precisar debido a la falta de transparencia en los reportes soviéticos. Se estima que el gasto militar soviético representaba 
+          entre el 12% y el 14% de su PIB durante la década de 1960. La URSS apoyó activamente a Vietnam del Norte, proporcionando 
+          armamento, suministros y asesoramiento militar. Además, la Unión Soviética también aumentó su presupuesto militar para mantenerse 
+          a la par de los avances tecnológicos y estratégicos de Estados Unidos, especialmente en el ámbito nuclear y la carrera espacial.
+        </p>
+        </div>
+        <div class="chart-container2">
+          <iframe title="Gasto militar de EE.UU y la URSS como parte de su PBI" aria-label="Interactive line chart" id="datawrapper-chart-CYN3N" src="https://datawrapper.dwcdn.net/CYN3N/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="354" data-external="1"></iframe>
+            <script type="text/javascript">!function(){
+              "use strict";window.addEventListener("message",(function(a){
+                if(void 0!==a.data["datawrapper-height"]){
+                  var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+                    var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+                  }
+                }))
+              }();
+            </script>
+        </div>
+        <div class="headline2">
+          <b><span class="GuerraFria"> La década de los 70 </span> </b>
+        </div>
+        <div class="Texto">
+          <p>
+          Durante la década de 1970, tanto Estados Unidos como la Unión Soviética realizaron inversiones significativas en sus fuerzas
+          militares, reflejando la intensa competencia de la Guerra Fría. El gasto militar de Estados Unidos oscilaba entre 90 y 120 mil 
+          millones de dólares anuales (ajustados a dólares de 1980), lo que representaba aproximadamente el 5-6% de su PIB.
+          Una reducción en el gasto se observó tras la Guerra de Vietnam y durante el período de détente.
+          </p>
+          <p>
+          Por otro lado, el gasto militar de la Unión Soviética se estimaba en aproximadamente 200 mil millones de rublos anuales 
+          (ajustados a dólares de 1980), representando entre el 12 y el 14% de su PIB. La URSS se centró en la expansión y 
+          modernización de su capacidad militar. Esta comparación destaca la diferencia en la magnitud y la proporción del gasto 
+          militar entre las dos superpotencias durante la década de 1970. Mientras que el gasto de EE.UU. era significativo,
+          la URSS dedicaba una porción mucho mayor de su economía a la defensa.
+          </p>
+        </div>
+        <div class="chart-container2">
+          <iframe title="Gasto militar de la URSS y EEUU en los 70s (medido en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-5vOpc" src="https://datawrapper.dwcdn.net/5vOpc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="398" data-external="1"></iframe>
+            <script type="text/javascript">!function(){
+              "use strict";window.addEventListener("message",(function(a){
+                if(void 0!==a.data["datawrapper-height"]){
+                  var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+                    var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+                  }
+                }))
+              }();
+            </script>
+        </div>
+      <div class="headline2">
+        <b><span class="GuerraFria"> La década de los 80s </span></b>
+      </div>
+      <div class = "Texto">
+        <p>
+          Durante la década de 1980, bajo la administración Reagan, se produjo un aumento significativo en el gasto militar de los 
+          Estados Unidos, un componente clave de la política conocida como "Reaganomics" y la intensificación de la Guerra Fría.
+        </p>
+        <p>
+          En 1980, el gasto militar aumentó drásticamente, situándose en estimaciones de entre 150 y 200 mil millones de dólares anuales
+          ajustados a los valores de 1980. Este aumento reflejaba una estrategia de defensa intensiva en respuesta a la percepción
+          de amenazas estratégicas de la Unión Soviética. Durante la mayor parte de la década, este gasto militar representó 
+          aproximadamente el 6-7% del PIB de los Estados Unidos, destacando la prioridad dada a la defensa nacional y la contención de 
+          la influencia soviética a nivel global.
+        </p>
+      </div>
+      
       <h3 class = "headline3">
         Conclusión
       </h3>
@@ -276,16 +398,16 @@
           </p>
       </div>
   </body>
-      <hr class = "hr-style">
-      <footer class = "footer">
-        <p class  = "Text-footer"> Esta página fue creada por Lucas Brea y Nazaret Seranusoglu.</p>
-        <p class = "Text-footer"> Para poder contactarnos, cuenta con los siguientes medios de comunicación:</p>
-        <ul>
-          <li class = "Text-footer2">Mail de Nazaret: Nazaretseranusoglu@gmail.com</li>
-          <li class = "Text-footer2">Mail de Lucas: Lucasjbrea@gmail.com</li>
-        </ul>
-        <p class = "Text-footer"> Todos los gráficos han sido creados gracias a Datawrapper.</p>
-      </footer>
+    <hr class = "hr-style">
+    <footer class = "footer">
+      <p class  = "Text-footer"> Esta página fue creada por Lucas Brea y Nazaret Seranusoglu.</p>
+      <p class = "Text-footer"> Para poder contactarnos, cuenta con los siguientes medios de comunicación:</p>
+      <ul>
+        <li class = "Text-footer2">Mail de Nazaret: Nazaretseranusoglu@gmail.com</li>
+        <li class = "Text-footer2">Mail de Lucas: Lucasjbrea@gmail.com</li>
+      </ul>
+      <p class = "Text-footer"> Todos los gráficos han sido creados gracias a Datawrapper.</p>
+    </footer>
 </main>
 
 <style>
@@ -550,6 +672,24 @@ p{
   view-timeline-name: --texto;
   view-timeline-axis: block;
   animation-timeline: --texto;
+  animation-name:show;
+  animation-range: entry 25% cover 50%;
+  animation-fill-mode: both;
+}
+
+.Items{
+  font-size:18px;
+  justify-content: center;
+  padding-bottom:2%;
+  margin-left: 50px;
+  width: 100%;
+  font-family: 'Roboto Mono', monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #BCBCBC;
+  view-timeline-name: --items;
+  view-timeline-axis: block;
+  animation-timeline: --items;
   animation-name:show;
   animation-range: entry 25% cover 50%;
   animation-fill-mode: both;
