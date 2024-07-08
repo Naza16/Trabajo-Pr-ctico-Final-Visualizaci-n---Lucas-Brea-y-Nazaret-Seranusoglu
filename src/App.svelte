@@ -7,32 +7,207 @@
     <p class="bajada">Por Lucas Brea y Nazaret Seranusoglu</p>
   </div>
   <body>
-    <div class = "ImagenesContainer2">
-      <img src="images/F35.jpg" alt="F35">
-    </div>
   <div class="Texto">
       <p>
-      Durante décadas, ha habido un debate sobre la relación entre guerra y economía. Algunos creen que los conflictos llevan a
-      la ruina económica, mientras que otros sugieren que la guerra puede impulsar el crecimiento. Exploraremos cómo las economías de 
-      los países han fluctuado a lo largo de los años.
+        Durante décadas, ha habido un debate sobre la relación entre guerra y economía. Algunos creen que los conflictos llevan a la ruina
+        económica, mientras que otros sugieren que pueden impulsar el crecimiento.
       </p>
       <p>
-        Los conflictos bélicos han catalizado transformaciones económicas significativas. La guerra impulsa el desarrollo de tecnologías y
-        capacidades industriales, con avances en campos como la aviación y la informática. Estas innovaciones, cruciales para la estrategia 
-        militar, también han tenido un impacto duradero en la economía civil, fomentando el crecimiento industrial y la creación de empleo.
+        Los conflictos bélicos han catalizado transformaciones económicas significativas, impulsando el desarrollo de tecnologías y 
+        capacidades industriales. Estas innovaciones, cruciales para la estrategia militar, también han tenido un impacto duradero en la 
+        economía civil.
       </p>
       <p>
-        La guerra trae beneficios económicos a corto plazo, pero conlleva altos costos humanos y materiales. La destrucción de 
-        infraestructura y el desplazamiento de poblaciones tienen efectos duraderos. Esto resalta la necesidad de soluciones pacíficas 
-        para los conflictos globales.
+        Sin embargo, la guerra trae beneficios económicos a corto plazo, pero conlleva altos costos. La 
+        destrucción de infraestructura y el desplazamiento de poblaciones tienen efectos duraderos, resaltando la necesidad de soluciones
+        pacíficas para los conflictos globales.
       </p>
   </div>
   <h2 class="headline2">
-    <b> Foco en conflictos actuales - <span class="Rusia"> Rusia</span> y <span class="Ucrania">Ucrania</span></b>
+    <b> Conflictos históricos - <span class="GuerraMundial"> Segunda Guerra Mundial</span></b>
   </h2>
-  <div class="ImagenesContainer">
-    <img src="images/Putin.png" alt="Putin" class="ImagenesLideres1">
-    <img src="images/Zelenskyy.png" alt="Zelenskyy" class="ImagenesLideres2">
+  <div class = "ImagenesContainer2">
+    <img src="images/WorldWar.jpg" alt="WW2">
+  </div>
+  <h3 class="headline3">
+    <b><span class="GuerraMundial"> Introducción </span></b>
+  </h3>
+  <div class="Texto">
+    <p>La Segunda Guerra Mundial tuvo profundos impactos económicos. La devastación de infraestructuras interrumpió el 
+    comercio y la economía, impulsando grandes inversiones como el Plan Marshall. Se aceleró la innovación tecnológica y las técnicas de producción en masa.
+    </p>
+  </div>
+  <h3 class="headline3">
+    <b><span class="GuerraMundial"> Durante la Guerra </span></b>
+  </h3>
+  <div class="Texto">
+    <p>
+      Durante la Segunda Guerra Mundial, muchos países experimentaron un aumento temporal en su PIB debido a la producción bélica y 
+      el aumento del gasto gubernamental en el esfuerzo de guerra. Sin embargo, este crecimiento no fue sostenible y estuvo acompañado
+      por la destrucción de infraestructura. Como bien, se muestra acá:
+    </p>
+  </div>
+  <div class="chart-container2">
+    <iframe title="Crecimiento Económico durante la guerra" aria-label="Split Bars" id="datawrapper-chart-VeJpX" src="https://datawrapper.dwcdn.net/VeJpX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
+      <script type="text/javascript">!function(){
+        "use strict";window.addEventListener("message",(function(a){
+          if(void 0!==a.data["datawrapper-height"]){
+            var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+              var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+            }
+          }))
+        }();
+    </script>
+  </div>
+  <h3 class="headline3">
+    <b><span class="GuerraMundial"> Luego de la Guerra </span></b>
+  </h3>
+  <div class="Texto">
+    <p>
+      Al finalizar la guerra, las economías de Europa y Asia sufrieron debido a la destrucción masiva, resultando en una caída inicial
+      del PIB. La ayuda del Plan Marshall de Estados Unidos fue crucial para la reconstrucción, lo que permitió una rápida 
+      recuperación y crecimiento del PIB en Europa Occidental.
+    </p>
+  </div>
+  <div class="chart-container2">
+    <iframe title="Crecimiento Económico Post-Guerra" aria-label="Stacked Bars" id="datawrapper-chart-qhxgM" src="https://datawrapper.dwcdn.net/qhxgM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
+      <script type="text/javascript">!function(){
+        "use strict";window.addEventListener("message",(function(a){
+          if(void 0!==a.data["datawrapper-height"]){
+            var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+              var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+            }
+          }))
+        }
+        ();
+    </script>
+  </div>
+  <div class="Texto">
+      <p>
+      Tras la Segunda Guerra Mundial, Alemania y Japón experimentaron un rápido crecimiento económico conocido como 'milagro 
+      económico', mientras que Estados Unidos se consolidaba como superpotencia. Durante la Guerra Fría, el gasto militar y 
+      tecnológico impactó en el PIB de ambos bloques.
+    </p>
+    <p>
+      La Segunda Guerra Mundial impactó el PIB: crecimiento durante el conflicto, caída posguerra, rápida recuperación y 
+      efectos duraderos en la economía global.
+    </p>
+  </div>
+  <h2 class="headline2">
+    <b> Conflictos históricos - <span class="GuerraFria"> Guerra Fría</span> </b>
+  </h2>
+  <div class="ImagenesContainer2">
+    <img src="images/coldWar.jpg" alt="coldWar">
+  </div>
+  <h3 class="headline3">
+    <b><span class="GuerraFria"> Introducción </span></b>
+  </h3>
+  <div class="Texto">
+    <p>
+      La Guerra Fría fue un enfrentamiento global entre Estados Unidos y la Unión Soviética tras la Segunda Guerra Mundial. Se 
+      caracterizó por una intensa rivalidad política, ideológica y tecnológica. 
+    </p>
+    <p>
+    Dividió al mundo en dos bloques: el occidental, liderado por Estados Unidos, y el oriental, por la Unión Soviética. Aunque no hubo
+    combates directos entre ellos, compitieron por influencia global y apoyaron regímenes afines.
+    </p>
+  </div>
+  <h3 class="headline3">
+    <b><span class="GuerraFria"> Conflictos y la carrera de armas </span></b>
+  </h3>
+  <div class="Texto">
+    <p>El gasto militar durante la Guerra Fría fue colosal, reflejando la intensa competencia entre las superpotencias.</p>
+    <ul>
+      <li class="Items">
+        Estados Unidos en 1980, el gasto militar estadounidense fue de aproximadamente $135 mil millones.
+      </li>
+      <li class="Items"> 
+        Unión Soviética, aunque las cifras exactas son difíciles de determinar debido a la falta de transparencia, se estima que el
+        gasto militar soviético en 1980 fue alrededor de $250 mil millones, ajustado por el poder adquisitivo. 
+      </li>
+    </ul>
+  </div>
+    <div class="Texto">
+    <p>En cuanto a conflictos, nunca hubo, de forma directa, entre los Estados Unidos y la URSS.
+      Sin Embargo, hubieron multiples conflictos indirectos o proxy wars. En este periodo, la economía fue afectada por estos enfrentamientos, y veremos como es que se relacionan. </p>
+    <p>A continuación, enumeraremos algunos de los más emblemáticos:</p>
+    </div>
+    <h2 class="headline2">
+      <b>Década de 1950 - <span class="GuerraFria"> Guerra de Corea </span></b>
+    </h2>
+    <div class="Texto">
+      Durante la Guerra de Corea (1950-1953), el gasto militar de Estados Unidos se incrementó significativamente, con estimaciones 
+      que rondan los $50-60 mil millones anuales ajustados a dólares de 1980. Este aumento en el gasto representó aproximadamente el 
+      10-15% del PIB al comienzo del conflicto, disminuyendo a cerca del 10% hacia el final de la década de 1950.
+    </div>
+    <div class="chart-container2">
+      <iframe title="Presupuesto del gasto militar de EE.UU en la guerra de Corea (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-Pg1ja" src="https://datawrapper.dwcdn.net/Pg1ja/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+      </script>
+    </div>
+    <h2 class="headline2">
+      <b> Decada de 1960 - <span class="GuerraFria"> Guerra de Vietnam y Carrera Espacial </span></b>
+    </h2>
+    <div class="Texto">
+    <p>En los años 60, el gasto militar de Estados Unidos creció considerablemente debido a la Guerra de Vietnam y la carrera armamentista.
+      En 1960, el gasto militar se estimaba en alrededor de $47 mil millones (ajustados a dólares de 1980). Con la escalada del conflicto en
+      Vietnam, los gastos aumentaron drásticamente, las estimaciones oscilan entre $60 y $90 mil millones, ajustados a dólares de 1980.
+    </p>
+    <p>La Unión Soviética, por su parte, incrementó su gasto militar durante este período, aunque las cifras exactas son difíciles 
+      de precisar, se estima que el gasto militar soviético representaba 
+      entre el 12% y el 14% de su PIB durante la década de 1960.
+    </p>
+    </div>
+    <div class="chart-container2">
+      <iframe title="Gasto militar de EE.UU y la URSS como parte de su PBI (durante la década del 60) " aria-label="Interactive line chart" id="datawrapper-chart-CYN3N" src="https://datawrapper.dwcdn.net/CYN3N/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+      </script>
+    </div>
+    <div class="headline2">
+      <b><span class="GuerraFria"> La década de los 70 </span> </b>
+    </div>
+    <div class="Texto">
+      <p>
+      Durante la década de 1970, tanto Estados Unidos como la Unión Soviética realizaron inversiones significativas en sus fuerzas
+      militares, reflejando la intensa competencia de la Guerra Fría. El gasto militar de Estados Unidos oscilaba entre 90 y 120 mil 
+      millones de dólares anuales (ajustados a dólares de 1980).
+      </p>
+      <p>
+      Por otro lado, el gasto militar de la Unión Soviética se estimaba en aproximadamente 200 mil millones de rublos anuales 
+      (ajustados a dólares de 1980), representando entre el 12 y el 14% de su PIB. La URSS se centró en la expansión y 
+      modernización de su capacidad militar.
+      </p>
+    </div>
+    <div class="chart-container2">
+      <iframe title="Gasto militar de la URSS y EEUU en los 70s (medido en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-5vOpc" src="https://datawrapper.dwcdn.net/5vOpc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
+        <script type="text/javascript">!function(){
+          "use strict";window.addEventListener("message",(function(a){
+            if(void 0!==a.data["datawrapper-height"]){
+              var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+                var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+              }
+            }))
+          }();
+        </script>
+    </div>
+  <div class="headline2">
+    <b><span class="GuerraFria"> La década de los 80s </span></b>
+  </div>
+  <div class = "Texto">
+    <p>
+      Durante la década de 1980, bajo la administración Reagan, se produjo un aumento significativo en el gasto militar de los 
+      Estados Unidos, un componente clave de la política conocida como "Reaganomics" y la intensificación de la Guerra Fría.
+    </p>
+    <p>
+      En 1980, el gasto militar aumentó drásticamente, situándose en estimaciones de entre 150 y 200 mil millones de dólares anuales
+      ajustados a los valores de 1980. Este aumento reflejaba una estrategia de defensa intensiva en respuesta a la percepción
+      de amenazas estratégicas de la Unión Soviética. 
+    </p>
+  </div>
+  
+  <h2 class="headline2">
+    <b> Conflictos actuales - <span class="Rusia"> Rusia</span> y <span class="Ucrania">Ucrania</span></b>
+  </h2>
+  <div class="ImagenesContainer2">
+    <img src="images/Putin.jpg" alt="Putin">
   </div>
   <div class="Texto">
       <p>El conflicto sorprendió al mundo y tuvo múltiples impactos económicos. Se observó un aumento en los precios de la energía 
@@ -48,7 +223,7 @@
       </p>
   </div>
       <div class = "chart-container2">
-        <iframe title="Presupuesto Militar Ruso (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-VowJU" src="https://datawrapper.dwcdn.net/VowJU/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="583" data-external="1"></iframe>
+        <iframe title="Presupuesto Militar Ruso (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-VowJU" src="https://datawrapper.dwcdn.net/VowJU/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
           <script type="text/javascript">!function(){
             "use strict";window.addEventListener("message",(function(a){
               if(void 0!==a.data["datawrapper-height"]){
@@ -74,15 +249,7 @@
     </p>
   </div>
   <div class="chart-container2">
-    <iframe title="PBI de Rusia a lo largo de los años (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-6TIHu" src="https://datawrapper.dwcdn.net/6TIHu/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="579" data-external="1"></iframe>
-      <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){
-        if(void 0!==a.data["datawrapper-height"]){
-          var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-            var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-          }
-        }
-        ))
-      }();
+    <iframe title="PBI de Rusia a lo largo de los años (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-6TIHu" src="https://datawrapper.dwcdn.net/6TIHu/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
     </script>
   </div>
   <div class="Texto">
@@ -92,7 +259,7 @@
     </p>
   </div>
     <div class="chart-container2">
-      <iframe title="Crecimiento de potencias europeas" aria-label="Bar Chart" id="datawrapper-chart-p65y2" src="https://datawrapper.dwcdn.net/p65y2/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="364" data-external="1"></iframe>
+      <iframe title="Crecimiento de potencias europeas" aria-label="Bar Chart" id="datawrapper-chart-p65y2" src="https://datawrapper.dwcdn.net/p65y2/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
         <script type="text/javascript">!function(){
           "use strict";window.addEventListener("message",(function(a){
             if(void 0!==a.data["datawrapper-height"]){
@@ -113,7 +280,7 @@
     </p>
     </div>
   <div class="chart-container2">
-    <iframe title="Mayores donantes a Ucrania (en U$D)" aria-label="Donut Chart" id="datawrapper-chart-8s7QS" src="https://datawrapper.dwcdn.net/8s7QS/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="445" data-external="1"></iframe>
+    <iframe title="Mayores donantes a Ucrania (en U$D)" aria-label="Donut Chart" id="datawrapper-chart-8s7QS" src="https://datawrapper.dwcdn.net/8s7QS/12/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
       <script type="text/javascript">!function(){
         "use strict";window.addEventListener("message",(function(a){
           if(void 0!==a.data["datawrapper-height"]){
@@ -128,15 +295,14 @@
     No obstante, su presupuesto militar ha crecido exponencialmente:
   </div>
   <div class="chart-container2">
-    <iframe title="Presupuesto Militar en Ucrania (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-DFu8R" src="https://datawrapper.dwcdn.net/DFu8R/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="596" data-external="1"></iframe>
+    <iframe title="Presupuesto Militar en Ucrania (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-DFu8R" src="https://datawrapper.dwcdn.net/DFu8R/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
       <script type="text/javascript">!function(){
         "use strict";window.addEventListener("message",(function(a){
           if(void 0!==a.data["datawrapper-height"]){
             var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-              var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-            }\
-          }))
-        }();
+              var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}
+            }))
+          }();
     </script>
   </div>
     <div class="Texto">
@@ -147,19 +313,18 @@
       </p>
     </div>
     <div class="chart-container2">
-      <iframe title="Crecimiento del PBI Ucraniano (Estimación en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-LfaBF" src="https://datawrapper.dwcdn.net/LfaBF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="596" data-external="1"></iframe>
-        <script type="text/javascript">!function(){
-          "use strict";window.addEventListener("message",(function(a){
-            if(void 0!==a.data["datawrapper-height"]){
-              var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-                var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-              }
-            }))
-          }();
+      <iframe title="Crecimiento del PBI Ucraniano en el futuro (Estimación en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-LfaBF" src="https://datawrapper.dwcdn.net/LfaBF/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
+        <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){
+          if(void 0!==a.data["datawrapper-height"]){
+            var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
+              var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
+            }
+          }))
+        }();
       </script>
     </div>
     <h3 class="headline3">
-      Conclusión
+    <b><span class="Ucrania"> Conclu</span><span class="Rusia">sión</span></b>
      </h3>
   <div class="Texto">
     <p>
@@ -168,220 +333,9 @@
       niveles económicos.
     </p>
   </div>
-      <h2 class="headline2">
-        <b> Conflictos históricos - <span class="GuerraMundial"> Segunda Guerra Mundial</span></b>
+      <h2 class = "headline">
+        Cierre Final
       </h2>
-      <h3 class="headline3">
-       Introducción
-      </h3>
-      <div class="Texto">
-        <p>La Segunda Guerra Mundial tuvo profundos impactos económicos. La devastación de infraestructuras en Europa y Asia interrumpió el 
-        comercio y la economía, impulsando grandes inversiones como el Plan Marshall. Esto fortaleció a EE. UU. como la principal potencia 
-        económica y aceleró la innovación tecnológica y las técnicas de producción en masa.
-        </p>
-        <p>El comercio internacional se redujo inicialmente, pero se reconfiguró con un mayor papel para Estados Unidos y un 
-        crecimiento del comercio intraeuropeo. Muchos países adoptaron políticas keynesianas para fomentar el crecimiento y establecieron 
-        sistemas de bienestar social.</p>
-      </div>
-      <h3 class="headline3">
-        Durante la guerra
-      </h3>
-      <div class="Texto">
-        <p>
-          Durante la Segunda Guerra Mundial, muchos países experimentaron un aumento temporal en su PIB debido a la producción bélica y 
-          el aumento del gasto gubernamental en el esfuerzo de guerra. Sin embargo, este crecimiento no fue sostenible y estuvo acompañado
-          por la destrucción de infraestructura. Como bien, se muestra acá:
-        </p>
-      </div>
-      <div class="chart-container2">
-        <iframe title="Crecimiento Económico durante la guerra" aria-label="Split Bars" id="datawrapper-chart-VeJpX" src="https://datawrapper.dwcdn.net/VeJpX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="228" data-external="1"></iframe>
-          <script type="text/javascript">!function(){
-            "use strict";window.addEventListener("message",(function(a){
-              if(void 0!==a.data["datawrapper-height"]){
-                var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-                  var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-                }
-              }))
-            }();
-        </script>
-      </div>
-      <h3 class="headline3">
-       Luego de la guerra
-      </h3>
-      <div class="Texto">
-        <p>
-          Al finalizar la guerra, las economías de Europa y Asia sufrieron debido a la destrucción masiva, resultando en una caída inicial
-          del PIB. La ayuda del Plan Marshall de Estados Unidos fue crucial para la reconstrucción, lo que permitió una rápida 
-          recuperación y crecimiento del PIB en Europa Occidental.
-        </p>
-      </div>
-      <div class="chart-container2">
-        <iframe title="Crecimiento Económico Post-Guerra" aria-label="Stacked Bars" id="datawrapper-chart-qhxgM" src="https://datawrapper.dwcdn.net/qhxgM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="310" data-external="1"></iframe>
-          <script type="text/javascript">!function(){
-            "use strict";window.addEventListener("message",(function(a){
-              if(void 0!==a.data["datawrapper-height"]){
-                var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-                  var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-                }
-              }))
-            }
-            ();
-        </script>
-      </div>
-      <div class="Texto">
-          <p>
-          Tras la Segunda Guerra Mundial, Alemania y Japón experimentaron un rápido crecimiento económico conocido como 'milagro 
-          económico', mientras que Estados Unidos se consolidaba como superpotencia. Durante la Guerra Fría, el gasto militar y 
-          tecnológico impactó en el PIB de ambos bloques. La reestructuración económica global y la aceleración de la globalización 
-          promovieron un crecimiento económico sostenido a nivel mundial."
-        </p>
-        <p>
-          La Segunda Guerra Mundial impactó el PIB: crecimiento durante el conflicto, caída posguerra, rápida recuperación y 
-          efectos duraderos en la economía global.
-        </p>
-      </div>
-      <h2 class="headline2">
-        <b> Conflictos históricos - <span class="GuerraFria"> Guerra Fría</span> </b>
-      </h2>
-      <h3 class="headline3">
-        Introducción
-      </h3>
-      <div class="Texto">
-        <p>
-          La Guerra Fría fue un enfrentamiento global entre Estados Unidos y la Unión Soviética tras la Segunda Guerra Mundial. Se 
-          caracterizó por una intensa rivalidad política, ideológica y tecnológica. 
-        </p>
-        <p>
-        Dividió al mundo en dos bloques: el occidental, liderado por Estados Unidos, y el oriental, por la Unión Soviética. Aunque no hubo
-        combates directos entre ellos, compitieron por influencia global y apoyaron regímenes afines. Su legado sigue presente en la
-        política internacional.
-        </p>
-      </div>
-      <h3 class="headline3">
-        Conflictos bélicos y carrera de armas 
-      </h3>
-      <div class="Texto">
-        <p>El gasto militar durante la Guerra Fría fue colosal, reflejando la intensa competencia entre las superpotencias.</p>
-        <ul>
-          <li class="Items">
-            Estados Unidos: En 1980, el gasto militar estadounidense fue de aproximadamente $135 mil millones.
-            Este gasto incluía no solo armas nucleares, sino también fuerzas convencionales, tecnología avanzada y programas de defensa 
-            estratégica.
-          </li>
-          <li class="Items"> 
-            Unión Soviética: Aunque las cifras exactas son difíciles de determinar debido a la falta de transparencia, se estima que el
-            gasto militar soviético en 1980 fue alrededor de $250 mil millones, ajustado por el poder adquisitivo. 
-            La economía soviética se vio enormemente presionada por estos gastos, contribuyendo eventualmente a su colapso.
-          </li>
-        </ul>
-      </div>
-        <div class="Texto">
-        <p>En cuanto a conflictos, nunca hubo, de forma directa, entre los Estados Unidos y la Unión de Repûblicas Socialistas Soviéticas, nunca sucedio.
-          Sin Embargo, hubieron multiples conflictos indirectos o proxy wars. En este periodo, la economía fue afectada por estos enfrentamientos, y veremos como es que se relacionan. </p>
-        <p>A continuación, enumeraremos algunos de los más emblemáticos:</p>
-        </div>
-        <h2 class="headline2">
-          <b>Década de 1950 - <span class="GuerraFria"> Guerra de Corea </span></b>
-        </h2>
-        <div class="Texto">
-          Durante la Guerra de Corea (1950-1953), el gasto militar de Estados Unidos se incrementó significativamente, con estimaciones 
-          que rondan los $50-60 mil millones anuales ajustados a dólares de 1980. Este aumento en el gasto representó aproximadamente el 
-          10-15% del PIB al comienzo del conflicto, disminuyendo a cerca del 10% hacia el final de la década de 1950. Este periodo marcó
-          una intensificación notable en la Guerra Fría, con Estados Unidos destinando considerables recursos para enfrentar la amenaza 
-          comunista en Asia y mantener su posición estratégica a nivel global.
-        </div>
-        <div class="chart-container2">
-          <iframe title="Presupuesto del gasto militar de EE.UU en la guerra de Corea (en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-Pg1ja" src="https://datawrapper.dwcdn.net/Pg1ja/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="100" data-external="1"></iframe>
-            <script type="text/javascript">!function(){
-              "use strict";window.addEventListener("message",(function(a){
-                if(void 0!==a.data["datawrapper-height"]){
-                  var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-                    var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-                  }
-                }))
-              }();
-          </script>
-        </div>
-        <h2 class="headline2">
-          <b> Decada de 1960 - <span class="GuerraFria"> Guerra de Vietnam y Carrera Espacial </span></b>
-        </h2>
-        <div class="Texto">
-        <p>En los años 60, el gasto militar de Estados Unidos creció considerablemente debido a la Guerra de Vietnam y la carrera armamentista.
-          En 1960, el gasto militar se estimaba en alrededor de $47 mil millones (ajustados a dólares de 1980). Con la escalada del conflicto en
-          Vietnam, los gastos aumentaron drásticamente, alcanzando su punto máximo a fines de la década. Las estimaciones del gasto militar 
-          anual para esta década oscilan entre $60 y $90 mil millones, también ajustados a dólares de 1980. Este gasto representó 
-          aproximadamente entre el 8% y el 10% del PIB durante los años de mayor intensidad del conflicto, reflejando la alta prioridad dada a
-          la defensa y las operaciones militares en ese periodo.
-        </p>
-        <p>La Unión Soviética, por su parte, también incrementó su gasto militar durante este período, aunque las cifras exactas son difíciles 
-          de precisar debido a la falta de transparencia en los reportes soviéticos. Se estima que el gasto militar soviético representaba 
-          entre el 12% y el 14% de su PIB durante la década de 1960. La URSS apoyó activamente a Vietnam del Norte, proporcionando 
-          armamento, suministros y asesoramiento militar. Además, la Unión Soviética también aumentó su presupuesto militar para mantenerse 
-          a la par de los avances tecnológicos y estratégicos de Estados Unidos, especialmente en el ámbito nuclear y la carrera espacial.
-        </p>
-        </div>
-        <div class="chart-container2">
-          <iframe title="Gasto militar de EE.UU y la URSS como parte de su PBI" aria-label="Interactive line chart" id="datawrapper-chart-CYN3N" src="https://datawrapper.dwcdn.net/CYN3N/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="354" data-external="1"></iframe>
-            <script type="text/javascript">!function(){
-              "use strict";window.addEventListener("message",(function(a){
-                if(void 0!==a.data["datawrapper-height"]){
-                  var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-                    var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-                  }
-                }))
-              }();
-            </script>
-        </div>
-        <div class="headline2">
-          <b><span class="GuerraFria"> La década de los 70 </span> </b>
-        </div>
-        <div class="Texto">
-          <p>
-          Durante la década de 1970, tanto Estados Unidos como la Unión Soviética realizaron inversiones significativas en sus fuerzas
-          militares, reflejando la intensa competencia de la Guerra Fría. El gasto militar de Estados Unidos oscilaba entre 90 y 120 mil 
-          millones de dólares anuales (ajustados a dólares de 1980), lo que representaba aproximadamente el 5-6% de su PIB.
-          Una reducción en el gasto se observó tras la Guerra de Vietnam y durante el período de détente.
-          </p>
-          <p>
-          Por otro lado, el gasto militar de la Unión Soviética se estimaba en aproximadamente 200 mil millones de rublos anuales 
-          (ajustados a dólares de 1980), representando entre el 12 y el 14% de su PIB. La URSS se centró en la expansión y 
-          modernización de su capacidad militar. Esta comparación destaca la diferencia en la magnitud y la proporción del gasto 
-          militar entre las dos superpotencias durante la década de 1970. Mientras que el gasto de EE.UU. era significativo,
-          la URSS dedicaba una porción mucho mayor de su economía a la defensa.
-          </p>
-        </div>
-        <div class="chart-container2">
-          <iframe title="Gasto militar de la URSS y EEUU en los 70s (medido en U$D)" aria-label="Interactive line chart" id="datawrapper-chart-5vOpc" src="https://datawrapper.dwcdn.net/5vOpc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="398" data-external="1"></iframe>
-            <script type="text/javascript">!function(){
-              "use strict";window.addEventListener("message",(function(a){
-                if(void 0!==a.data["datawrapper-height"]){
-                  var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){
-                    var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}
-                  }
-                }))
-              }();
-            </script>
-        </div>
-      <div class="headline2">
-        <b><span class="GuerraFria"> La década de los 80s </span></b>
-      </div>
-      <div class = "Texto">
-        <p>
-          Durante la década de 1980, bajo la administración Reagan, se produjo un aumento significativo en el gasto militar de los 
-          Estados Unidos, un componente clave de la política conocida como "Reaganomics" y la intensificación de la Guerra Fría.
-        </p>
-        <p>
-          En 1980, el gasto militar aumentó drásticamente, situándose en estimaciones de entre 150 y 200 mil millones de dólares anuales
-          ajustados a los valores de 1980. Este aumento reflejaba una estrategia de defensa intensiva en respuesta a la percepción
-          de amenazas estratégicas de la Unión Soviética. Durante la mayor parte de la década, este gasto militar representó 
-          aproximadamente el 6-7% del PIB de los Estados Unidos, destacando la prioridad dada a la defensa nacional y la contención de 
-          la influencia soviética a nivel global.
-        </p>
-      </div>
-      
-      <h3 class = "headline3">
-        Conclusión
-      </h3>
       <div class="Texto">
           <p>
             La prosperidad económica en tiempos de guerra es compleja y contradictoria. Aunque algunos sectores crecen, como la 
@@ -422,7 +376,7 @@ p{
   padding: 20px;
   max-width: 100%;
 }
-.header, .bajada, .headline, .headline2, .headline3, .Texto, .footer {
+.header, .bajada, .footer {
   padding:10px;
   position:relative;
   width: 100%;
@@ -445,6 +399,8 @@ p{
   text-align: center;
   position: relative;
   width: 100%;
+  padding-top: 10px;
+  padding-bottom: 5px;
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
@@ -536,7 +492,6 @@ p{
   animation-name:show;
   animation-range: entry 55% cover 50%;
   animation-fill-mode: both;
-
 }
 .ImagenesContainer2 img {
   padding-bottom: -5%;
@@ -545,27 +500,7 @@ p{
   display: block;
   margin: 0 auto; /* Centra la imagen horizontalmente */
 }
-.ImagenesContainer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-right: -200px;
-  padding-bottom: 5%;
-  width: 100%;
-  view-timeline-name: --image;
-  view-timeline-axis: block;
-  animation-timeline: --image;
-  animation-name:show;
-  animation-range: entry 25% cover 50%;
-  animation-fill-mode: both;
-}
-.ImagenesLideres1, .ImagenesLideres2 {
-  display: block;
-  height: auto;
-  padding: 0;
-  max-width: 50%;
-  margin-right: -150px;
-}
+
 .GuerraMundial {
   background: radial-gradient(circle, red, white);
   -webkit-background-clip: text;
@@ -664,7 +599,8 @@ p{
   font-size: 20px;
   justify-content: center;
   text-align: left;
-  width: 100%;
+  width: 80%;
+  margin: auto;
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
@@ -680,7 +616,6 @@ p{
 .Items{
   font-size:18px;
   justify-content: center;
-  padding-bottom:2%;
   margin-left: 50px;
   width: 100%;
   font-family: 'Roboto Mono', monospace;
@@ -705,7 +640,7 @@ p{
   animation-fill-mode: both;
 }
 .Text-footer {
-  font-size: 15px;
+  font-size: 18px;
   text-align: center;
   width: 100%;
   font-family: "Roboto Mono", monospace;
@@ -714,7 +649,7 @@ p{
   padding-top: -20%;
 }
 .Text-footer2 {
-  font-size: 13px;
+  font-size: 15px;
   padding-right: 10px;
   content: '•';
   color: white;
