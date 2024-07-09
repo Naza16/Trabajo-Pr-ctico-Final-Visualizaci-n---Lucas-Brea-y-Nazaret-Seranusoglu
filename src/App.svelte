@@ -48,7 +48,7 @@
     </p>
   </div>
   <div class="chart-container2">
-    <iframe title="Crecimiento Económico durante la guerra" aria-label="Split Bars" id="datawrapper-chart-VeJpX" src="https://datawrapper.dwcdn.net/VeJpX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
+    <iframe title="PBI de los paises involucrados en la Segunda Guerra Mundial (en U$D y en millones)" aria-label="Stacked Bars" id="datawrapper-chart-EyeIj" src="https://datawrapper.dwcdn.net/EyeIj/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 70% !important; border: none;" height="200" data-external="1"></iframe>
       <script type="text/javascript">!function(){
         "use strict";window.addEventListener("message",(function(a){
           if(void 0!==a.data["datawrapper-height"]){
@@ -354,6 +354,39 @@
   </body>
     <hr class = "hr-style">
     <footer class = "footer">
+      <h2 class="headline_footer"> Referencias y créditos </h2>
+      <p class = "Text-footer"> A continuación, listaremos links y/o libros en donde hemos podido hallar la informacion necesaria para poder realizar este trabajo: </p>
+      <ul>
+        <li class = "Text-footer2"> https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/747858/IPOL_BRI(2024)747858_EN.pdf </li>
+        <li class = "Text-footer2"> https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2023&locations=RU&start=1988 </li>
+        <li class = "Text-footer2"> https://data.worldbank.org/indicator/MS.MIL.XPND.CD?locations=RU </li>
+        <li class = "Text-footer2"> https://www.statista.com/statistics/263604/gross-domestic-product-gdp-growth-rate-in-france/#:~:text=It%20is%20an%20important%20indicator,compared%20to%20the%20previous%20year.</li>
+        <li class = "Text-footer2"> https://www.voanews.com/a/russia-economy-grew-in-2023-despite-war-and-sanctions/7478952.html </li>
+        <li class = "Text-footer2"> https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/octobertodecember2023#:~:text=UK%20GDP%20is%20estimated%20to,(COVID%2D19)%20pandemic.</li>
+        <li class = "Text-footer2"> https://www.euronews.com/business/2024/02/23/germany-sees-declining-economic-growth-in-last-quarter-of-2023#:~:text=Public%20spending%20also%20inched%20up,%2C%20Germany's%20GDP%20shrank%200.3%25.</li>
+        <li class = "Text-footer2"> https://www.statista.com/statistics/263606/gross-domestic-product-gdp-growth-rate-in-italy/#:~:text=In%202023%2C%20Italy's%20real%20GDP,compared%20to%20the%20previous%20year.&text=Italy's%20economy%20is%20a%20developed,well%20as%20the%20European%20Union.</li>
+        <li class = "Text-footer2"> https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/458992/1965-operation-rolling-thunder/</li>
+        <li class = "Text-footer2"> https://www.cndh.org.mx/noticia/fin-de-la-invasion-y-guerra-de-vietnam-retiro-del-ejercito-de-eua-despues-de-10-anos-de#:~:text=Tras%20diez%20a%C3%B1os%20de%20permanencia,norteamericanos%20que%20combatieron%20en%20Vietnam.</li>
+        <li class= "Text-footer2">  https://www.britannica.com/event/Soviet-invasion-of-Afghanistan</li>
+        <li class= "Text-footer2">  https://es.euronews.com/2018/08/08/el-conflicto-entre-georgia-y-rusia-analizado-diez-anos-despues </li>
+        <li class= "Text-footer2">  https://www.bbc.com/mundo/noticias-internacional-60500020</li>
+        <li class= "Text-footer2">  https://www.britannica.com/event/2022-Russian-invasion-of-Ukraine</li>
+        <li class= "Text-footer2">  https://data.worldbank.org/indicator/MS.MIL.XPND.CD?end=2022&locations=UA&skipRedirection=true&start=1960&view=chart</li>
+        <li class= "Text-footer">   https://www.bbc.com/mundo/noticias-internacional-62982023</li>
+        <li class= "Text-footer2">  https://www.bbc.com/mundo/resources/idt-b3e123dd-b5ae-4c62-8d43-9fd15bfef127</li>
+        <li class = "Text-footer2"> https://airandspace.si.edu/about/acerca-del-museo-nacional-del-aire-y-el-espacio/apolo-11</li>
+        <p class = "Text-footer"> Durante la guerra fría y la Segunda Guerra Mundial, es más dificil estimar los gastos miltares, dado el secretismo y la falta de trasparencia por parte de ciertas administraciones, sin embargo, gran parte de la informacion proviene de las siguietnes fuentes: </p>
+        <li class = "Text-footer2"> Stockholm International Peace Research Institute </li>
+        <li class = "Text-footer2"> Historical Statistics of the United States, Colonial Times to 1970</li>
+        <li class = "Text-footer2"> "The Rise and Fall of the Great Powers" de Paul Kennedy</li>
+        <li class = "Text-footer2"> https://www.statista.com/statistics/1334676/wwii-annual-war-gdp-largest-economies/ </li>
+        <li class = "Text-footer2"> Maddison, Angus. "The World Economy: Historical Statistics." OECD, 2003 </li>
+        <li class = "Text-footer2"> Crafts, N. F. R., and Toniolo, Gianni (eds). "Economic Growth in Europe Since 1945." Cambridge University Press, 1996. </li>
+        <li class = "Text-footer2"> Ohkawa, Kazushi, and Rosovsky, Henry. "Japanese Economic Growth: Trend Acceleration in the Twentieth Century." Stanford University Press, 1973.</li>
+        <li class = "Text-footer2"> Bureau of Economic Analysis (BEA), U.S. Department of Commerce </li>
+        <li class = "Text-footer2"> https://ourworldindata.org/grapher/military-expenditure-total?tab=chart&time=1950..1959&country=~USA </li>
+        <li class = "Text-footer2"> https://ourworldindata.org/grapher/military-expenditure-total?tab=chart&time=1970..1979&country=~USA</li>
+      </ul>
       <p class  = "Text-footer"> Esta página fue creada por Lucas Brea y Nazaret Seranusoglu.</p>
       <p class = "Text-footer"> Para poder contactarnos, cuenta con los siguientes medios de comunicación:</p>
       <ul>
@@ -431,6 +464,21 @@ p{
   animation-range: entry 25% cover 50%;
   animation-fill-mode: both;
 }
+.headline_footer {
+  font-size: 35px;
+  -webkit-background-clip: text;
+  color: white;
+  background-clip: text;
+  border-radius: 8px;
+  text-align: center;
+  position: relative;
+  background-size: 200% 200%;
+  width: 100%;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 .headline {
   font-size: 60px;
   background: radial-gradient(circle, red, rgb(255, 175, 90), rgb(255, 244, 33));
