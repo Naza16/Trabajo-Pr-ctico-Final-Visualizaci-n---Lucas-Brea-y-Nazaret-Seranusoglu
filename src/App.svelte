@@ -459,6 +459,7 @@
         <li class= "Text-footer">   https://www.bbc.com/mundo/noticias-internacional-62982023</li>
         <li class= "Text-footer2">  https://www.bbc.com/mundo/resources/idt-b3e123dd-b5ae-4c62-8d43-9fd15bfef127</li>
         <li class = "Text-footer2"> https://airandspace.si.edu/about/acerca-del-museo-nacional-del-aire-y-el-espacio/apolo-11</li>
+        <li class = "Text-footer2"> https://www.dw.com/en/ukraine-10-biggest-providers-of-military-aid/a-68861057 </li>
         <p class = "Text-footer"> Durante la guerra fría y la Segunda Guerra Mundial, es más dificil estimar los gastos miltares, dado el secretismo y la falta de trasparencia por parte de ciertas administraciones, sin embargo, gran parte de la informacion proviene de las siguietnes fuentes: </p>
         <li class = "Text-footer2"> Stockholm International Peace Research Institute </li>
         <li class = "Text-footer2"> Historical Statistics of the United States, Colonial Times to 1970</li>
