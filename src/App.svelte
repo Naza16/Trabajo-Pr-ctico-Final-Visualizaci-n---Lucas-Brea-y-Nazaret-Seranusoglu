@@ -8,7 +8,7 @@
   </div>
   <div id="year-container">
     <div id="year">1939</div>
-    <div id="year-text">Evento Historico</div>
+    <div id="year-text"></div>
     <script>
       window.addEventListener('scroll', function() {
         var posicionDesplazamiento = window.scrollY;
